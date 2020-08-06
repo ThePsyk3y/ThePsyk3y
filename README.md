@@ -31,6 +31,8 @@
 <br />
 <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePsyk3y&count-private=true&layout=compact)
+
 <img align="left" alt="ThePsyk3y's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ThePsyk3y&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://codeSTACKr.com
