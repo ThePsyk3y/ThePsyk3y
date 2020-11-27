@@ -2,7 +2,7 @@
 
 ## I'm a Student and an aspiring Developer!
 - I’m currently working on a [JavaScript Caclulator][JSCalc]!
-- I’m currently learning JavaScript and NodeJS.
+- I’m currently learning JavaScript, VueJS and NodeJS.
 <br />
 
 ### My Known and Learning Languages :
