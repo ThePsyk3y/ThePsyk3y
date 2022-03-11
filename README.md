@@ -1,10 +1,8 @@
 ### Hello there, I'm Souradeep - aka **Psyk3y**
 
 ## I'm a Student and an aspiring Open-Source Developer!
-<br />
 
 ### My Known and Learning Languages :
-
 <img align="left" alt="C" width="28px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="Python" width="26px" src="https://repository-images.githubusercontent.com/88345998/d0468980-4297-11ea-96fa-e9a94794209d" />
